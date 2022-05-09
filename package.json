@@ -4,8 +4,11 @@
   "description": "Assets bundler and optimizer for static sites.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "node serve"
   },
   "author": "danisztls",
-  "license": "LGPL-3.0-only"
+  "license": "LGPL-3.0-only",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
