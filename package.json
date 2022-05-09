@@ -1,5 +1,5 @@
 {
-  "name": "packer",
+  "name": "repack",
   "version": "1.0.0",
   "description": "Assets bundler and optimizer for static sites.",
   "main": "index.js",
@@ -7,5 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "danisztls",
-  "license": "UNLICENSED"
+  "license": "LGPL-3.0-only"
 }
