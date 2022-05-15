@@ -4,6 +4,7 @@
   "description": "Assets bundler and optimizer for static sites.",
   "main": "index.js",
   "scripts": {
+    "build": "node build",
     "serve": "node serve",
     "test": "standard"
   },
