@@ -22,5 +22,8 @@ It doesn't compete with more complex frameworks for assets bundling, minificatio
 ### API
 ...
 
+## Development
+Project use Node [standard](https://github.com/standard/standard) to automatically fix code and enforce a style.
+
 ## See also
 - [jekyll-minifier](https://github.com/Mendeo/jekyll-minifier): pure Liquid, should be slow and experimental but work with GitHub Pages
