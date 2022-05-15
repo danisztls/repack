@@ -1,4 +1,4 @@
-# RePack
+# Repak
 Node post-processor for static resources (HTML, CSS, JS).
 
 ## Goals
@@ -13,10 +13,10 @@ It doesn't compete with more complex frameworks for assets bundling, minificatio
 ### CLI
 ```sh
 # Build
-./build && repack --src <source> --dst <destination>
+./build && repak --src <source> --dst <destination>
 
 # Serve
-./serve && repack --watch --src <source> --dst <destination>
+./serve && repak --watch --src <source> --dst <destination>
 ```
 
 ### API

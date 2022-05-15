@@ -1,5 +1,5 @@
 { 
-  "name": "repack",
+  "name": "repak",
   "version": "1.0.0",
   "description": "Assets bundler and optimizer for static sites.",
   "main": "index.js",
