@@ -14,5 +14,10 @@
   },
   "devDependencies": {
     "standard": "*"
+  },
+  "standard": {
+    "ignore": [
+      "test/"
+    ]
   }
 }
